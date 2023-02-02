@@ -1,0 +1,24 @@
+{
+	"jump_address_android":{
+		"client_jump_type":"1",
+		"client_jump_url":"跳转手机应用市场"
+	},
+	"jump_address_ios":{
+		"client_jump_type":"1",
+		"client_jump_url":"itms-apps://itunes.apple.com/us/app/id6443598121?mt=8"
+	},
+	"update_content_android":{
+		"forced_flag":"0",
+		"update_version":"1.0.1",
+		"title":"发现新版本",
+		"content":"应用版本升级检测测试",
+		"release_date":"2023-02-02"
+	},
+	"update_content_ios":{
+		"forced_flag":"0",
+		"update_version":"1.0.1",
+		"title":"发现新版本",
+		"content":"应用版本升级检测测试",
+		"release_date":"2023-02-02"
+	}
+}
